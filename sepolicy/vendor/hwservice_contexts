@@ -1,1 +1,2 @@
 vendor.xiaomi.hardware.motor::IMotor u:object_r:hal_motor_hwservice_xiaomi:s0
+vendor.lineage.biometrics.fingerprint.inscreen::IFingerprintInscreen u:object_r:hal_lineage_fod_hwservice:s0
