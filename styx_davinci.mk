@@ -13,6 +13,7 @@ $(call inherit-product, device/xiaomi/davinci/device.mk)
 
 # Inherit some common styx stuff.
 $(call inherit-product, vendor/styx/config/common.mk)
+TARGET_NO_GAPPS := true
 
 PRODUCT_NAME := styx_davinci
 PRODUCT_DEVICE := davinci
