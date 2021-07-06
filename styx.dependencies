@@ -22,5 +22,11 @@
     "repository": "LineageOS/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "branch": "lineage-18.1"
+  },
+  {
+    "repository": "device_styx_sepolicy",
+    "target_path": "device/styx/sepolicy",
+    "branch": "R",
+    "remote": "styx"
   }
 ]
